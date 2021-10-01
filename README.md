@@ -1,0 +1,2 @@
+# connect_odoo_with_external_applications
+Connecting Odoo with External Applications
